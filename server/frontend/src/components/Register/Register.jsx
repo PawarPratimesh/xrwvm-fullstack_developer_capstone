@@ -57,7 +57,6 @@ const Register = () => {
           </div>
           <div className="input">
             <img src="/static/email.png" className="img_icon" alt="Email"/>
-            // Update this specific line in your Register.jsx file:
             <input type="email" name="email" placeholder="email" onChange={(e) => setEmail(e.target.value)} required />
           </div>
           <div className="input">
