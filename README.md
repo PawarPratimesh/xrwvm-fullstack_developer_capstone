@@ -1,2 +1,5 @@
-# Repository Name: <xrwvm-fullstack_developer_capstone>
-# Project Name: Full-stack development Capstone project for Cars Dealership
+# Repository name
+xrwvm-fullstack_developer_capstone
+
+# Project name
+fullstack_developer_capstone
